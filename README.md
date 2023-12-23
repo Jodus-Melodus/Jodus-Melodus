@@ -20,9 +20,6 @@ I'm @Jodus-Melodus, a passionate coder exploring the vast realms of programming.
 - CSS
 - SQL
 
-## 🐍 My Contributions
-![Snake animation](https://github.com/Jodus-Melodus/Jodus-Melodus/blob/output/github-contribution-grid-snake.svg)
-
 Feel free to explore my repositories, download the latest releases, and let's code something amazing together! 🚀
 
 <!---
