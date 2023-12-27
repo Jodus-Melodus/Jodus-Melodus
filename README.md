@@ -19,6 +19,7 @@ I'm @Jodus-Melodus, a passionate coder exploring the vast realms of programming.
 - JavaScript
 - HTML
 - CSS
+- Rust
 - SQL
 
 ## 📊 GitHub Stats
