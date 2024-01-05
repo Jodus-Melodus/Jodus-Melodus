@@ -16,10 +16,10 @@ I'm @Jodus-Melodus, a passionate coder exploring the vast realms of programming.
 ## 💻 Languages
 - Python
 - Delphi
+- Rust
 - JavaScript
 - HTML
 - CSS
-- Rust
 - SQL
 
 ## 📊 GitHub Stats
