@@ -15,8 +15,8 @@ I'm @Jodus-Melodus, a passionate coder exploring the vast realms of programming.
 
 ## 💻 Languages
 - Python
-- Delphi
 - Rust
+- Delphi
 - JavaScript
 - HTML
 - CSS
