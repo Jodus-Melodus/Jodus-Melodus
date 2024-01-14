@@ -3,8 +3,6 @@
 ![GitHub followers](https://img.shields.io/github/followers/Jodus-Melodus?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/Jodus-Melodus/Jodus-Melodus?style=social)
 ![Total Releases](https://img.shields.io/github/downloads/Jodus-Melodus/Jodus-Melodus/total-releases?color=success)
-![Profile views](https://komarev.com/ghpvc/?username=Jodus-Melodus)
-![GitHub Activity](https://img.shields.io/github/last-commit/Jodus-Melodus/Jodus-Melodus)
 
 I'm @Jodus-Melodus, a passionate coder exploring the vast realms of programming. I find joy in crafting elegant solutions using classes.
 
