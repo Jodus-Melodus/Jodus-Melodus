@@ -13,7 +13,7 @@ I'm @Jodus-Melodus, a passionate coder exploring the vast realms of programming.
 ![Most used lang](https://github-readme-stats.vercel.app/api/top-langs/?username=Jodus-Melodus&layout=compact&cache=off&bg_color=222222&text_color=ffffff)
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jodus-Melodus&show_icons=true&theme=radical)
+![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=Jodus-Melodus&showicon=true&theme=radical)
 
 ## 🏆 Longest Commit Streak
 ![Longest Commit Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jodus-Melodus)
