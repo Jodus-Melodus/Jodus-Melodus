@@ -16,7 +16,7 @@ I'm @Jodus-Melodus, a passionate coder exploring the vast realms of programming.
 ![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=Jodus-Melodus&showicon=true&theme=radical)
 
 ## 🏆 Longest Commit Streak
-![Longest Commit Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jodus-Melodus)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Jodus-Melodus&theme=one-dark-pro&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 ## 🛠️ Programs I Use
 - **IDEs:** Visual Studio Code, Delphi RAD Studio
