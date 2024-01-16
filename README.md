@@ -11,6 +11,7 @@ I'm @Jodus-Melodus, a passionate coder exploring the vast realms of programming.
 
 ## 💻 Languages
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Jodus-Melodus&layout=compact)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Jodus-Melodus&layout=compact&langs_count=8&theme=radical&hide=html,css&hide_title=true&include_all_commits=true&count_private=true&show_icons=true&hide_border=true)
 - Python
 - Rust
 - Delphi
