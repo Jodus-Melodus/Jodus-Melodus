@@ -10,7 +10,7 @@ I'm @Jodus-Melodus, a passionate coder exploring the vast realms of programming.
 - 💞️ Open to collaboration on Python projects.
 
 ## 💻 Languages
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Jodus-Melodus&layout=compact&cache=off)
+![Most used lang](https://github-readme-stats.vercel.app/api/top-langs/?username=Jodus-Melodus&layout=compact&cache=off&bg_color=222222&text_color=ffffff)
 
 - Python
 - Rust
