@@ -7,7 +7,7 @@ I'm @Jodus-Melodus, a passionate coder exploring the vast realms of programming.
 ## 🚀 About Me
 - 🌱 Currently enhancing my coding skills without any specific focus, always eager to learn.
 - 👀 Interested in diverse programming challenges.
-- 💞️ Open to collaboration on Python projects.
+- 💞️ Open to collaboration on projects.
 
 ## 💻 Languages
 ![Most used lang](https://github-readme-stats.vercel.app/api/top-langs/?username=Jodus-Melodus&layout=compact&cache=off&bg_color=222222&text_color=ffffff)
