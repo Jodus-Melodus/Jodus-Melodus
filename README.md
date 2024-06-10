@@ -29,7 +29,7 @@ I'm @Jodus-Melodus, a passionate coder exploring the vast realms of programming.
 ![Languages](https://skillicons.dev/icons?i=ts,SVG)
 
 ## Let's Chat
-[![Languages](https://skillicons.dev/icons?i=discord)](https://discord.gg/NF3Cbsjv)
+[![Languages](https://skillicons.dev/icons?i=discord)](https://discord.gg/zn8j85vgss)
 
 Feel free to explore my repositories, download the latest releases, and let's code something amazing together! 🚀
 
