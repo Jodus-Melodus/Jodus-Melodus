@@ -9,17 +9,24 @@ I'm @Jodus-Melodus, a passionate coder exploring the vast realms of programming.
 - 👀 Interested in diverse programming challenges.
 - 💞️ Open to collaboration on projects.
 
-## 💻 Languages
-![Most used lang](https://github-readme-stats.vercel.app/api/top-langs/?username=Jodus-Melodus&layout=compact&cache=off&bg_color=222222&text_color=ffffff)
+## 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=jodus-melodus&show_icons=true&theme=cobalt)
 
 ## 🏆 Longest Commit Streak
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Jodus-Melodus&theme=one-dark-pro&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-## 🛠️ Programs I Use
-- **IDEs:** Visual Studio Code, Delphi RAD Studio
-- **Version Control:** Git, GitHub
-- **Web Development:** HTML, CSS, JavaScript
-- **Other Tools:** CorelDRAW, GIMP
+## Skills
+### Programming Languages
+![programming languages](https://skillicons.dev/icons?i=cs,python,rust,js)
+
+### Frontend
+![frontend](https://skillicons.dev/icons?i=html,css)
+
+### Other
+![other](https://skillicons.dev/icons?i=git,github,windows,vscode)
+
+## Interested in learning
+![Languages](https://skillicons.dev/icons?i=ts,redis)
 
 Feel free to explore my repositories, download the latest releases, and let's code something amazing together! 🚀
 
