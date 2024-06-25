@@ -17,7 +17,7 @@ I'm @Jodus-Melodus, a passionate coder exploring the vast realms of programming.
 
 ## Skills
 ### Programming Languages
-![programming languages](https://skillicons.dev/icons?i=cs,python,rust,js,cpp)
+![programming languages](https://skillicons.dev/icons?i=c,cpp,cs,python,rust,js)
 
 ### Frontend
 ![frontend](https://skillicons.dev/icons?i=html,css)
