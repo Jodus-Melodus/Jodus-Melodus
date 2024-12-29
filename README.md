@@ -29,12 +29,6 @@ I'm @Jodus-Melodus, a passionate coder exploring the vast realms of programming.
 ### Other
 ![other](https://skillicons.dev/icons?i=git,github,windows,vscode)
 
-## Interested in learning
-![Languages](https://skillicons.dev/icons?i=svg)
-
-## Let's Chat
-[![Languages](https://skillicons.dev/icons?i=discord)](https://discord.gg/zn8j85vgss)
-
 Feel free to explore my repositories, download the latest releases, and let's code something amazing together! 🚀
 
 <!---
