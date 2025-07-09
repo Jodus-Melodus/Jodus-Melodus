@@ -1,7 +1,5 @@
 # Hi there! 👋
 
-![GitHub followers](https://img.shields.io/github/followers/Jodus-Melodus?style=social)
-
 I'm @Jodus-Melodus, a passionate coder exploring the vast realms of programming. I find joy in crafting elegant solutions using classes.
 
 ## 🚀 About Me
