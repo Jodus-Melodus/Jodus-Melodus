@@ -1,35 +1,41 @@
-# Hi there! 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Welcome%20to%20my%20GitHub!&fontSize=28&fontColor=ffffff" />
+</p>
 
-I'm @Jodus-Melodus, a passionate coder exploring the vast realms of programming. I find joy in crafting elegant solutions using classes.
+![total stars](https://img.shields.io/github/stars/jodus-melodus?label=Total%20Stars&style=social)
 
-## 🚀 About Me
-- 🌱 Currently enhancing my coding skills without any specific focus, always eager to learn.
-- 👀 Interested in diverse programming challenges.
-- 💞️ Open to collaboration on projects.
+[![Reddit](https://img.shields.io/badge/Reddit-u%2FNext_Neighborhood637-FF4500?logo=reddit&logoColor=white)](https://www.reddit.com/user/Next_Neighborhood637)
+
+## 👤About Me
+- 🌍 Based in South Africa
+- 🎧 Loves music
+- 🗣️ Fluent in Afrikaans and English
+
+## 🚀 Current Projects
+- [minmath](https://github.com/jodus-melodus/minmath)
 
 ## 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=jodus-melodus&show_icons=true&theme=cobalt)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jodus-Melodus&layout=compact&cache=off&bg_color=222222&text_color=ffffff)
 
-## 🏆 Longest Commit Streak
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Jodus-Melodus&theme=one-dark-pro&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+## 🖥️ Programming Languages
+![](https://skillicons.dev/icons?i=c,cpp,cs,python,rust,js,ts,html,css)
 
-##  Languages
+## 🛠️ Other Skills
+![tools](https://skillicons.dev/icons?i=git,vscode,windows,github)
 
-![Most used lang](https://github-readme-stats.vercel.app/api/top-langs/?username=Jodus-Melodus&layout=compact&cache=off&bg_color=222222&text_color=ffffff)
+## 🧪 Tech I'm Exploring
+- Linear algebra
 
-## Skills
-### Programming Languages
-![programming languages](https://skillicons.dev/icons?i=c,cpp,cs,python,rust,js,ts)
+## 🛤️ Journey So Far
 
-### Frontend
-![frontend](https://skillicons.dev/icons?i=html,css)
+- 2020 – Started learning programming (Pascal in Delphi)
+- 2021 – Played computational Minecraft, and learn about low level systems
+- 2022 – Discovered Python and Arduino
+- 2023 – Built my own programming language in Python
+- 2024 – Discovered Rust, C#, C++, C
+- 2025 – Made my first Rust crate and software rasterizer
 
-### Other
-![other](https://skillicons.dev/icons?i=git,github,windows,vscode,visualstudio,blender,discord)
+---
 
-Feel free to explore my repositories, download the latest releases, and let's code something amazing together! 🚀
-
-<!---
-Jodus-Melodus/Jodus-Melodus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
