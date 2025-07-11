@@ -39,6 +39,7 @@
 
 ## 🧪 Tech I'm Exploring
 - Linear algebra
+- Webscraping
 
 ## 🛤️ Journey So Far
 
