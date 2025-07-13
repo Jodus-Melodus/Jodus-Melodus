@@ -26,6 +26,7 @@
 
 ## 🚀 Current Projects
 - [minmath](https://github.com/jodus-melodus/minmath)
+- [python_roadmap](https://github.com/Jodus-Melodus/python_roadmap)
 
 ## 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=jodus-melodus&show_icons=true&theme=cobalt)
