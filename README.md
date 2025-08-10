@@ -30,7 +30,6 @@
 
 ## 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=jodus-melodus&show_icons=true&theme=cobalt)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jodus-Melodus&layout=compact&cache=off&bg_color=222222&text_color=ffffff)
 
 ## 🖥️ Programming Languages
 ![](https://skillicons.dev/icons?i=c,cpp,cs,python,rust,go,js,ts,html,css)
