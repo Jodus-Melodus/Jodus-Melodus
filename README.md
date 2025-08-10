@@ -44,12 +44,12 @@
 
 ## 🛤️ Journey So Far
 
-- 2020 – Started learning programming (Pascal in Delphi)
-- 2021 – Played computational Minecraft, and learn about low level systems
-- 2022 – Discovered Python and Arduino
-- 2023 – Built my own programming language in Python
-- 2024 – Discovered Rust, C#, C++, C
-- 2025 – Made my first Rust crate and software rasterizer
+- 2020 – Started learning programming (Pascal in Delphi).
+- 2021 – Played computational Minecraft, and learn about low-level systems.
+- 2022 – Discovered Python and Arduino.
+- 2023 – Built my programming language in Python.
+- 2024 – Discovered Rust, C#, C++, C.
+- 2025 – Made my first Rust crate and software rasterizer. Started learning Go.
 
 ---
 
