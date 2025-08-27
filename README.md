@@ -23,10 +23,11 @@
 - 🌍 Based in South Africa
 - 🎧 Loves music
 - 🗣️ Fluent in Afrikaans and English
+- 🖥️ Going to study Computer and Electronic Engineering
 
 ## 🚀 Current Projects
 - [minmath](https://github.com/jodus-melodus/minmath)
-- [python_roadmap](https://github.com/Jodus-Melodus/python_roadmap)
+- [clarity](https://github.com/Jodus-Melodus/clarity)
 
 ## 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=jodus-melodus&show_icons=true&theme=cobalt)
@@ -38,9 +39,8 @@
 ## 🛠️ Other Skills
 ![tools](https://skillicons.dev/icons?i=git,vscode,windows,github)
 
-## 🧪 Tech I'm Exploring
-- Linear algebra
-- Webscraping
+## 🧪 Currently Busy With
+- Learning C++
 
 ## 🛤️ Journey So Far
 
