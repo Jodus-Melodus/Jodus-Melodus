@@ -37,7 +37,7 @@
 ![](https://skillicons.dev/icons?i=c,cpp,cs,python,rust,go,js,ts,html,css)
 
 ## 🛠️ Other Skills
-![tools](https://skillicons.dev/icons?i=git,vscode,windows,github)
+![tools](https://skillicons.dev/icons?i=git,vscode,windows,github,docker)
 
 ## 🧪 Currently Busy With
 - Learning C++
