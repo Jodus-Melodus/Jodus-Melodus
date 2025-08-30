@@ -40,7 +40,7 @@
 ![tools](https://skillicons.dev/icons?i=git,vscode,windows,github,docker)
 
 ## 🧪 Currently Busy With
-- Learning C++
+- Learning C++ and Docker
 
 ## 🛤️ Journey So Far
 
