@@ -25,10 +25,6 @@
 - 🗣️ Fluent in Afrikaans and English
 - 🖥️ Going to study Computer and Electronic Engineering
 
-## 🚀 Current Projects
-- [minmath](https://github.com/jodus-melodus/minmath)
-- [clarity](https://github.com/Jodus-Melodus/clarity)
-
 ## 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=jodus-melodus&show_icons=true&theme=cobalt)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jodus-Melodus&layout=compact&cache=off&bg_color=222222&text_color=ffffff)
@@ -40,16 +36,10 @@
 ![tools](https://skillicons.dev/icons?i=git,vscode,windows,github,docker)
 
 ## 🧪 Currently Busy With
-- Learning C++ and Docker
+- Learning C/C++ and Docker
 
 ## 🛤️ Journey So Far
-
-- 2020 – Started learning programming (Pascal in Delphi).
-- 2021 – Played computational Minecraft, and learn about low-level systems.
-- 2022 – Discovered Python and Arduino.
-- 2023 – Built my programming language in Python.
-- 2024 – Discovered Rust, C#, C++, C.
-- 2025 – Made my first Rust crate and software rasterizer. Started learning Go.
+View my entire journey [here](Journey.md)
 
 ---
 
