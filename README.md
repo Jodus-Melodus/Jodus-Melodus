@@ -48,10 +48,8 @@
 ![tools](https://skillicons.dev/icons?i=git,vscode,windows,github,docker)
 
 ## 🧪 Currently Busy With
-- Learning C/C++ and Docker
-
-## 🛤️ Journey So Far
-View my entire journey [here](Journey.md)
+- Learning C/C++ by making a rasterizer
+- Learning to use Docker
 
 ---
 
