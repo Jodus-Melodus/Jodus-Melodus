@@ -29,8 +29,6 @@
   </a>
 </p>
 
-
-
 ## 👤About Me
 - 🌍 Based in South Africa
 - 🎧 Loves music
@@ -46,14 +44,6 @@
 
 ## 🛠️ Other Skills
 ![tools](https://skillicons.dev/icons?i=git,vscode,windows,github,docker)
-
-## 🧪 Currently Busy With
-- Learning C/C++ by making a rasterizer
-- Learning to use Docker
-
----
-
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&fontSize=28&fontColor=ffffff" />
