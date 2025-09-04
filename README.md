@@ -17,6 +17,18 @@
   </a>
 </p>
 
+---
+
+<p align="center">
+  <a href="Journey.md">
+    <img src="https://img.shields.io/badge/My%20Journey-View-blue?style=for-the-badge" alt="Journey" />
+  </a>
+  &nbsp;
+  <a href="Resume.md">
+    <img src="https://img.shields.io/badge/Resume-View-green?style=for-the-badge" alt="Resume" />
+  </a>
+</p>
+
 
 
 ## 👤About Me
