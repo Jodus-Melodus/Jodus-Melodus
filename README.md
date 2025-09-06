@@ -43,7 +43,7 @@
 ![](https://skillicons.dev/icons?i=c,cpp,cs,python,rust,go,js,ts,html,css)
 
 ## 🛠️ Other Skills
-![tools](https://skillicons.dev/icons?i=git,vscode,windows,github,docker)
+![tools](https://skillicons.dev/icons?i=git,vscode,windows,github)
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&fontSize=28&fontColor=ffffff" />
