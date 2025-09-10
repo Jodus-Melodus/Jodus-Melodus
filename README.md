@@ -39,12 +39,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=jodus-melodus&show_icons=true&theme=cobalt)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jodus-Melodus&layout=compact&cache=off&bg_color=222222&text_color=ffffff)
 
-## 🖥️ Programming Languages
-![](https://skillicons.dev/icons?i=c,cpp,python,rust)
-
-## 🛠️ Other Skills
-![tools](https://skillicons.dev/icons?i=git,vscode,windows,github)
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&fontSize=28&fontColor=ffffff" />
 </p>
