@@ -38,6 +38,10 @@
   <a href="Dev-Playbook.md">
     <img src="https://img.shields.io/badge/Dev%20Playbook-Open-blue?style=for-the-badge" alt="Dev Playbook" />
   </a>
+  &nbsp;
+  <a href="https://github.com/Jodus-Melodus/Dev-Journal">
+    <img src="https://img.shields.io/badge/Dev%20Journal-Open-purple?style=for-the-badge" alt="Dev Journal" />
+  </a>
 </p>
 
 ---
