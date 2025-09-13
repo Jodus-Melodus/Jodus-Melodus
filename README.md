@@ -54,6 +54,12 @@
 
 ## 📊 GitHub Stats
 
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=philip&theme=dark&hide_border=true" alt="GitHub Streak"/>
+  </a>
+</div>
+
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jodus-melodus&theme=nord_dark" alt="GitHub Profile Summary Card" />
 </p>
