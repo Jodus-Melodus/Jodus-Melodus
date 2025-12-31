@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/badge/Reddit-u%2FNext_Neighborhood637-FF4500?logo=reddit&logoColor=white" alt="Reddit" />
   </a>
   &nbsp;
-  <a href="https://crates.io/users/jodusmelodus">
+  <a href="https://crates.io/users/jodus-melodus">
     <img src="https://img.shields.io/badge/Crates.io-JodusMelodus-yellow?logo=rust&logoColor=white" alt="Cargo Profile" />
   </a>
 </p>
