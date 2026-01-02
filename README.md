@@ -13,20 +13,6 @@
 </p>
 
 <p align="center">
-  <a href="https://www.reddit.com/user/Next_Neighborhood637">
-    <img src="https://img.shields.io/badge/Reddit-u%2FNext_Neighborhood637-FF4500?logo=reddit&logoColor=white" alt="Reddit" />
-  </a>
-  &nbsp;
-  <a href="https://crates.io/users/jodus-melodus">
-    <img src="https://img.shields.io/badge/Crates.io-JodusMelodus-yellow?logo=rust&logoColor=white" alt="Cargo Profile" />
-  </a>
-</p>
-
----
-
-## 🚀 Quick Links
-
-<p align="center">
   <a href="Journey.md">
     <img src="https://img.shields.io/badge/My%20Journey-Explore-red?style=for-the-badge" alt="Journey" />
   </a>
@@ -49,6 +35,16 @@
 🧠 Passionate about graphics programming, modular design, and clean code  
 🎧 Music fuels my flow  
 🗣️ Fluent in Afrikaans & English
+
+### 🔥 My Top Projects
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| [play_scrape](https://github.com/JodusMelodus/play_scrape) | Playlist scraper for Deezer | ![Python](https://img.shields.io/badge/Python-000000?style=flat&logo=python) |
+| [time_tracker](https://github.com/JodusMelodus/time_tracker) | Work activity tracker | ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust) |
+| [minmath](https://github.com/JodusMelodus/minmath) | Math library | ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust) |
+| [rasterizer-c](https://github.com/JodusMelodus/rasterizer-c) | Rasterizer made in C | ![C](https://img.shields.io/badge/C-000000?style=flat&logo=c) |
+| [phi](https://github.com/JodusMelodus/phi) | Scripted interpreted language | ![Python](https://img.shields.io/badge/Python-000000?style=flat&logo=python) |
 
 ---
 
