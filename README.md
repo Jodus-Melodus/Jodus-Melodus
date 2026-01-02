@@ -55,12 +55,6 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jodusmelodus&theme=nord_dark" alt="GitHub Profile Summary Card" />
-</p>
-
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jodusmelodus&theme=nord_dark" alt="GitHub Stats" />
-  &nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JodusMelodus&layout=compact&cache=off&theme=dark&lang_count=20" alt="Top Languages" />
 </p>
 
