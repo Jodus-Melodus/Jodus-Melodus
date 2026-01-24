@@ -12,9 +12,9 @@
 </p>
 
 <p align="center">
-  <a href="Journey.md"><img src="https://img.shields.io/badge/My%20Journey-Explore-E74C3C?style=for-the-badge&logo=adventureide" /></a>
-  <a href="Resume.md"><img src="https://img.shields.io/badge/Resume-View-27AE60?style=for-the-badge&logo=googledocs" /></a>
-  <a href="https://github.com/JodusMelodus/Dev-Playbook"><img src="https://img.shields.io/badge/Dev%20Playbook-Open-3498DB?style=for-the-badge&logo=bookstack" /></a>
+  <a href="Journey.md"><img src="https://img.shields.io/badge/My%20Journey-Explore-E74C3C?style=for-the-badge&logo=adventureide"/></a>
+  <a href="Resume.md"><img src="https://img.shields.io/badge/Resume-View-27AE60?style=for-the-badge&logo=googledocs"/></a>
+  <a href="https://github.com/JodusMelodus/Dev-Playbook"><img src="https://img.shields.io/badge/Dev%20Playbook-Open-3498DB?style=for-the-badge&logo=bookstack"/></a>
 </p>
 
 ---
@@ -23,11 +23,29 @@
 
 * 🌍 **Location:** Potchefstroom, South Africa
 * 🦀 **Focus:** Rust, C, and Low-Level Performance
-* 🎶 **Vibe:** Driven by music, fueled by tea (I'm sensitive to coffee
+* 🎶 **Vibe:** Driven by music, fueled by tea (I'm sensitive to coffee)
 
 ---
 
-## 🛠️ Engineering Portfolio
+## 🏗️ Featured Engineering Works
+
+<p align="center">
+  <a href="https://github.com/JodusMelodus/minmath">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JodusMelodus&repo=minmath&theme=tokyonight&show_owner=true" />
+  </a>
+  <a href="https://github.com/JodusMelodus/micro">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JodusMelodus&repo=micro&theme=tokyonight&show_owner=true" />
+  </a>
+  <br />
+  <a href="https://github.com/JodusMelodus/rasterizer-c">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JodusMelodus&repo=rasterizer-c&theme=tokyonight&show_owner=true" />
+  </a>
+  <a href="https://github.com/JodusMelodus/Phi">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JodusMelodus&repo=Phi&theme=tokyonight&show_owner=true" />
+  </a>
+</p>
+
+## 🛠️ Full Portfolio
 
 <details>
 <summary>📚<b>Libraries</b></summary>
@@ -36,9 +54,9 @@
 | Repo | Language | Link |
 |------|----------|------|
 | [minmath](https://github.com/JodusMelodus/minmath) | ![](https://img.shields.io/badge/Rust-black?style=flat-square&logo=rust&logoColor=E43716) | [crates.io](https://crates.io/crates/minmath) |
-| [micro](https://github.com/JodusMelodus/micro) | ![](https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=E43716) | [crates.io](https://crates.io/crates/micro) |
-| [what](https://github.com/JodusMelodus/what) | ![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) | Unofficially Published |
-| [vector](https://github.com/JodusMelodus/vector_2d_3d) | ![](https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=E43716) | [crates.io](https://crates.io/crates/vector_2d_3d) |
+| [micro](https://github.com/JodusMelodus/micro) | ![](https://img.shields.io/badge/Rust-black?flat-square&logo=rust&logoColor=E43716) | [crates.io](https://crates.io/crates/micro) |
+| [what](https://github.com/JodusMelodus/what) | ![](https://img.shields.io/badge/C-00599C?flat-square&logo=c&logoColor=white) | Unofficially Published |
+| [vector](https://github.com/JodusMelodus/vector_2d_3d) | ![](https://img.shields.io/badge/Rust-black?flat-square&logo=rust&logoColor=E43716) | [crates.io](https://crates.io/crates/vector_2d_3d) |
 | [Phi-Modules](https://github.com/JodusMelodus/Phi-Modules) | `Phi` | Library for [Phi](https://github.com/JodusMelodus/Phi) |
 </details>
 
@@ -48,12 +66,12 @@
 
 | Repo | Language | Usage |
 |------|----------|-------|
-| [project_qr](https://github.com/JodusMelodus/project_qr) | ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | QR Code generator |
+| [project_qr](https://github.com/JodusMelodus/project_qr) | ![](https://img.shields.io/badge/Python-3776AB?flat-square&logo=python&logoColor=white) | QR Code generator |
 | [Dev-Playbook](https://github.com/JodusMelodus/Dev-Playbook) | N/A | Templates |
-| [play_scrape](https://github.com/JodusMelodus/play_scrape) | ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | Deezer Playlist scraper |
-| [time_tracker](https://github.com/JodusMelodus/time_tracker) | ![](https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=E43716) | Productivity tracker |
-| [wordSearch](https://github.com/JodusMelodus/wordSearch) | ![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) | Word search generator |
-| [JM](https://github.com/JodusMelodus/JM) | ![](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) | Terminal |
+| [play_scrape](https://github.com/JodusMelodus/play_scrape) | ![](https://img.shields.io/badge/Python-3776AB?flat-square&logo=python&logoColor=white) | Deezer Playlist scraper |
+| [time_tracker](https://github.com/JodusMelodus/time_tracker) | ![](https://img.shields.io/badge/Rust-black?flat-square&logo=rust&logoColor=E43716) | Productivity tracker |
+| [wordSearch](https://github.com/JodusMelodus/wordSearch) | ![](https://img.shields.io/badge/C-00599C?flat-square&logo=c&logoColor=white) | Word search generator |
+| [JM](https://github.com/JodusMelodus/JM) | ![](https://img.shields.io/badge/C%23-239120?flat-square&logo=c-sharp&logoColor=white) | Terminal |
 </details>
 
 <details>
@@ -62,12 +80,12 @@
 
 | Repo | Language | Description |
 |------|----------|-------------|
-| [2DMR](https://github.com/JodusMelodus/2DMR) | ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | 2D MinceRaft (Minecraft Easter Egg) |
-| [TicTacToe](https://github.com/JodusMelodus/TicTacToe) | ![](https://img.shields.io/badge/Pascal-0089BD?style=for-the-badge&logo=delphi&logoColor=white) | My very first program |
-| [cells](https://github.com/JodusMelodus/cells) | ![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) | Cellular Automata Simulation |
-| [chess](https://github.com/JodusMelodus/chess) | ![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) | Chess |
-| [terra](https://github.com/JodusMelodus/terra) | ![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) | Terraria Clone |
-| [physiCpp](https://github.com/JodusMelodus/physiCpp) | ![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) | Physics Simulation |
+| [2DMR](https://github.com/JodusMelodus/2DMR) | ![](https://img.shields.io/badge/JavaScript-F7DF1E?flat-square&logo=javascript&logoColor=black) | 2D MinceRaft (Minecraft Easter Egg) |
+| [TicTacToe](https://github.com/JodusMelodus/TicTacToe) | ![](https://img.shields.io/badge/Pascal-0089BD?flat-square&logo=delphi&logoColor=white) | My very first program |
+| [cells](https://github.com/JodusMelodus/cells) | ![](https://img.shields.io/badge/C-00599C?flat-square&logo=c&logoColor=white) | Cellular Automata Simulation |
+| [chess](https://github.com/JodusMelodus/chess) | ![](https://img.shields.io/badge/C-00599C?flat-square&logo=c&logoColor=white) | Chess |
+| [terra](https://github.com/JodusMelodus/terra) | ![](https://img.shields.io/badge/C-00599C?flat-square&logo=c&logoColor=white) | Terraria Clone |
+| [physiCpp](https://github.com/JodusMelodus/physiCpp) | ![](https://img.shields.io/badge/C%2B%2B-00599C?flat-square&logo=c%2B%2B&logoColor=white) | Physics Simulation |
 </details>
 
 <details>
@@ -76,22 +94,22 @@
 
 | Repo | Language | Description |
 |------|----------|-------------|
-| [rasterizer-c](https://github.com/JodusMelodus/rasterizer-c) | ![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) | Rasterizer |
-| [rasterizer-cpp](https://github.com/JodusMelodus/rasterizer-cpp) | ![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) | Rasterizer |
-| [rasterizer_Rust](https://github.com/JodusMelodus/rasterizer_rust) | ![](https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=E43716) | Rasterizer |
-| [weak_perspective_projection](https://github.com/JodusMelodus/weak_perspective_projection) | ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | Weak Perspective Projection Demo |
+| [rasterizer-c](https://github.com/JodusMelodus/rasterizer-c) | ![](https://img.shields.io/badge/C-00599C?flat-square&logo=c&logoColor=white) | Rasterizer |
+| [rasterizer-cpp](https://github.com/JodusMelodus/rasterizer-cpp) | ![](https://img.shields.io/badge/C%2B%2B-00599C?flat-square&logo=c%2B%2B&logoColor=white) | Rasterizer |
+| [rasterizer_Rust](https://github.com/JodusMelodus/rasterizer_rust) | ![](https://img.shields.io/badge/Rust-black?flat-square&logo=rust&logoColor=E43716) | Rasterizer |
+| [weak_perspective_projection](https://github.com/JodusMelodus/weak_perspective_projection) | ![](https://img.shields.io/badge/Python-3776AB?flat-square&logo=python&logoColor=white) | Weak Perspective Projection Demo |
 </details>
 
 <details>
 <summary>🏗️<b>Projects</b></summary>
 <br>
 
-| Repo | Lanuage | Description |
+| Repo | Language | Description |
 |------|---------|-------------|
-| [Draw](https://github.com/JodusMelodus/Draw) | ![](https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=E43716) | DAW made in Rust |
-| [GoNAS](https://github.com/JodusMelodus/GoNAS) | ![](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) | Basic LAN NAS proof of concept |
-| [SoundWave](https://github.com/JodusMelodus/SoundWave) | ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | Spotify clone |
-| [Phi](https://github.com/JodusMelodus/Phi) | ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | Own scripting language |
+| [Draw](https://github.com/JodusMelodus/Draw) | ![](https://img.shields.io/badge/Rust-black?flat-square&logo=rust&logoColor=E43716) | DAW made in Rust |
+| [GoNAS](https://github.com/JodusMelodus/GoNAS) | ![](https://img.shields.io/badge/Go-00ADD8?flat-square&logo=go&logoColor=white) | Basic LAN NAS proof of concept |
+| [SoundWave](https://github.com/JodusMelodus/SoundWave) | ![](https://img.shields.io/badge/JavaScript-F7DF1E?flat-square&logo=javascript&logoColor=black) | Spotify clone |
+| [Phi](https://github.com/JodusMelodus/Phi) | ![](https://img.shields.io/badge/Python-3776AB?flat-square&logo=python&logoColor=white) | Own scripting language |
 </details>
 
 ---
