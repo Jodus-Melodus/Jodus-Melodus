@@ -31,17 +31,17 @@
 
 <p align="center">
   <a href="https://github.com/JodusMelodus/minmath">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JodusMelodus&repo=minmath&theme=tokyonight&show_owner=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JodusMelodus&repo=minmath&theme=tokyonight&show_owner=true&hide_border=true" />
   </a>
   <a href="https://github.com/JodusMelodus/micro">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JodusMelodus&repo=micro&theme=tokyonight&show_owner=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JodusMelodus&repo=micro&theme=tokyonight&show_owner=true&hide_border=true" />
   </a>
   <br />
   <a href="https://github.com/JodusMelodus/rasterizer-c">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JodusMelodus&repo=rasterizer-c&theme=tokyonight&show_owner=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JodusMelodus&repo=rasterizer-c&theme=tokyonight&show_owner=true&hide_border=true" />
   </a>
   <a href="https://github.com/JodusMelodus/Phi">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JodusMelodus&repo=Phi&theme=tokyonight&show_owner=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JodusMelodus&repo=Phi&theme=tokyonight&show_owner=true&hide_border=true" />
   </a>
 </p>
 
