@@ -1,13 +1,13 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=JodusMelodus&subtitle=Computer%20&%20Electronic%20Engineer&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=JodusMelodus&subtitle=Computer%20&%20Electronic%20Engineer&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
 <p align="center">
   <a href="https://github.com/jodusmelodus">
-    <img src="https://img.shields.io/github/followers/jodusmelodus?label=Followers&style=for-the-badge&color=4a26ff&logo=github" />
+    <img src="https://img.shields.io/github/followers/jodusmelodus?label=Followers&style=for-the-badge&color=4a26ff&logo=github"/>
   </a>
   <a href="https://github.com/jodusmelodus?tab=stars">
-    <img src="https://img.shields.io/github/stars/jodusmelodus?label=Stars&style=for-the-badge&color=f1c40f&logo=github" />
+    <img src="https://img.shields.io/github/stars/jodusmelodus?label=Stars&style=for-the-badge&color=f1c40f&logo=github"/>
   </a>
 </p>
 
@@ -31,17 +31,17 @@
 
 <p align="center">
   <a href="https://github.com/JodusMelodus/minmath">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JodusMelodus&repo=minmath&theme=tokyonight&show_owner=true&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JodusMelodus&repo=minmath&theme=tokyonight&show_owner=true&hide_border=true"/>
   </a>
   <a href="https://github.com/JodusMelodus/micro">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JodusMelodus&repo=micro&theme=tokyonight&show_owner=true&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JodusMelodus&repo=micro&theme=tokyonight&show_owner=true&hide_border=true"/>
   </a>
   <br />
   <a href="https://github.com/JodusMelodus/rasterizer-c">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JodusMelodus&repo=rasterizer-c&theme=tokyonight&show_owner=true&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JodusMelodus&repo=rasterizer-c&theme=tokyonight&show_owner=true&hide_border=true"/>
   </a>
   <a href="https://github.com/JodusMelodus/Phi">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JodusMelodus&repo=Phi&theme=tokyonight&show_owner=true&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JodusMelodus&repo=Phi&theme=tokyonight&show_owner=true&hide_border=true"/>
   </a>
 </p>
 
@@ -117,16 +117,16 @@
 ## 📊 Performance Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JodusMelodus&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JodusMelodus&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JodusMelodus&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JodusMelodus&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JodusMelodus&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
